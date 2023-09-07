@@ -2,7 +2,6 @@ import os
 from PIL import Image
 import sys
 import time
-import random
 
 def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
